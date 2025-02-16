@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouBSmC91/0E=",
+  "success": true,
+  "projectFilePath": "/home/silcniu/Projects/CSharp-101/CSharp-101.csproj",
+  "expectedPackageFiles": [
+    "/home/silcniu/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

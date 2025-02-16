@@ -1,0 +1,15 @@
+/home/silcniu/Projects/CSharp-101/bin/Debug/net9.0/CSharp-101
+/home/silcniu/Projects/CSharp-101/bin/Debug/net9.0/CSharp-101.deps.json
+/home/silcniu/Projects/CSharp-101/bin/Debug/net9.0/CSharp-101.runtimeconfig.json
+/home/silcniu/Projects/CSharp-101/bin/Debug/net9.0/CSharp-101.dll
+/home/silcniu/Projects/CSharp-101/bin/Debug/net9.0/CSharp-101.pdb
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.GeneratedMSBuildEditorConfig.editorconfig
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.AssemblyInfoInputs.cache
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.AssemblyInfo.cs
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.csproj.CoreCompileInputs.cache
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.sourcelink.json
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.dll
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/refint/CSharp-101.dll
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.pdb
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/CSharp-101.genruntimeconfig.cache
+/home/silcniu/Projects/CSharp-101/obj/Debug/net9.0/ref/CSharp-101.dll
